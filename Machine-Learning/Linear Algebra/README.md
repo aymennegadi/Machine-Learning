@@ -1,8 +1,8 @@
-# 📐 Algèbre Linéaire pour le Machine Learning
+#  Algèbre Linéaire pour le Machine Learning
 
 Ce dossier contient 7 ressources PDF couvrant les concepts essentiels d'algèbre linéaire pour le Machine Learning.
 
-## 📚 Contenu du dossier
+##  Contenu du dossier
 
 | # | Fichier | Description | Pages |
 |---|---------|-------------|:-----:|
@@ -14,7 +14,7 @@ Ce dossier contient 7 ressources PDF couvrant les concepts essentiels d'algèbre
 | 6 | `06-Linear-Regression-Example.pdf` | Exemple pratique de régression linéaire | 3 |
 | 7 | `07-ML-Introduction.pdf` | Introduction au Machine Learning | 2 |
 
-## 🎯 Ordre d'étude recommandé
+##  Ordre d'étude recommandé
 
 1. **Introduction** : Commencez par `07-ML-Introduction.pdf` pour comprendre le contexte
 2. **Bases** : Étudiez `01-Matrix-Operations.pdf` pour les opérations fondamentales
@@ -24,7 +24,7 @@ Ce dossier contient 7 ressources PDF couvrant les concepts essentiels d'algèbre
 6. **Décomposition** : Comprenez la SVD avec `03-SVD.pdf`
 7. **Application** : Appliquez avec l'exemple pratique `06-Linear-Regression-Example.pdf`
 
-## 🔗 Applications en Machine Learning
+##  Applications en Machine Learning
 
 ### **Matrices**
 - Représentation des données (datasets)
@@ -51,7 +51,7 @@ Ce dossier contient 7 ressources PDF couvrant les concepts essentiels d'algèbre
 - Analyse de tendances
 - Relations entre variables
 
-## 💻 Exemples de code inclus
+##  Exemples de code inclus
 
 Les fichiers contiennent des exemples de code Python pour :
 
@@ -62,9 +62,10 @@ Les fichiers contiennent des exemples de code Python pour :
 | Régression linéaire | scikit-learn | Prédiction de prix |
 | Calculs algébriques | NumPy | Valeurs propres, déterminants |
 
-## 📖 Prérequis
+##  Prérequis
 
 - Connaissances de base en mathématiques
 - Notions de programmation Python (pour les exemples)
 - Compréhension des concepts d'algèbre de niveau lycée
+
 
